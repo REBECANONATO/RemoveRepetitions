@@ -1,0 +1,13 @@
+D:\GitHub\Projetos_Desafios\RemoveRepetitions\RemoveRepetitions\RemoveRepetitions\bin\Debug\netcoreapp3.1\RemoveRepetitions.exe
+D:\GitHub\Projetos_Desafios\RemoveRepetitions\RemoveRepetitions\RemoveRepetitions\bin\Debug\netcoreapp3.1\RemoveRepetitions.deps.json
+D:\GitHub\Projetos_Desafios\RemoveRepetitions\RemoveRepetitions\RemoveRepetitions\bin\Debug\netcoreapp3.1\RemoveRepetitions.runtimeconfig.json
+D:\GitHub\Projetos_Desafios\RemoveRepetitions\RemoveRepetitions\RemoveRepetitions\bin\Debug\netcoreapp3.1\RemoveRepetitions.runtimeconfig.dev.json
+D:\GitHub\Projetos_Desafios\RemoveRepetitions\RemoveRepetitions\RemoveRepetitions\bin\Debug\netcoreapp3.1\RemoveRepetitions.dll
+D:\GitHub\Projetos_Desafios\RemoveRepetitions\RemoveRepetitions\RemoveRepetitions\bin\Debug\netcoreapp3.1\RemoveRepetitions.pdb
+D:\GitHub\Projetos_Desafios\RemoveRepetitions\RemoveRepetitions\RemoveRepetitions\obj\Debug\netcoreapp3.1\RemoveRepetitions.csprojAssemblyReference.cache
+D:\GitHub\Projetos_Desafios\RemoveRepetitions\RemoveRepetitions\RemoveRepetitions\obj\Debug\netcoreapp3.1\RemoveRepetitions.AssemblyInfoInputs.cache
+D:\GitHub\Projetos_Desafios\RemoveRepetitions\RemoveRepetitions\RemoveRepetitions\obj\Debug\netcoreapp3.1\RemoveRepetitions.AssemblyInfo.cs
+D:\GitHub\Projetos_Desafios\RemoveRepetitions\RemoveRepetitions\RemoveRepetitions\obj\Debug\netcoreapp3.1\RemoveRepetitions.csproj.CoreCompileInputs.cache
+D:\GitHub\Projetos_Desafios\RemoveRepetitions\RemoveRepetitions\RemoveRepetitions\obj\Debug\netcoreapp3.1\RemoveRepetitions.dll
+D:\GitHub\Projetos_Desafios\RemoveRepetitions\RemoveRepetitions\RemoveRepetitions\obj\Debug\netcoreapp3.1\RemoveRepetitions.pdb
+D:\GitHub\Projetos_Desafios\RemoveRepetitions\RemoveRepetitions\RemoveRepetitions\obj\Debug\netcoreapp3.1\RemoveRepetitions.genruntimeconfig.cache

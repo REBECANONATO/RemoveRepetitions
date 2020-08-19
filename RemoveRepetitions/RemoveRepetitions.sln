@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30225.117
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RemoveRepetitions", "RemoveRepetitions\RemoveRepetitions.csproj", "{179A692D-2DAB-42AF-B9D5-E2DD17B1ADCB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{179A692D-2DAB-42AF-B9D5-E2DD17B1ADCB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{179A692D-2DAB-42AF-B9D5-E2DD17B1ADCB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{179A692D-2DAB-42AF-B9D5-E2DD17B1ADCB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{179A692D-2DAB-42AF-B9D5-E2DD17B1ADCB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BFA016B6-16A7-44CD-9AEB-378121B62724}
+	EndGlobalSection
+EndGlobal
