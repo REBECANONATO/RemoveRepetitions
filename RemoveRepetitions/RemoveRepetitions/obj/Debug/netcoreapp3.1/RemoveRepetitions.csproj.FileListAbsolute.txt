@@ -11,3 +11,16 @@ D:\GitHub\Projetos_Desafios\RemoveRepetitions\RemoveRepetitions\RemoveRepetition
 D:\GitHub\Projetos_Desafios\RemoveRepetitions\RemoveRepetitions\RemoveRepetitions\obj\Debug\netcoreapp3.1\RemoveRepetitions.dll
 D:\GitHub\Projetos_Desafios\RemoveRepetitions\RemoveRepetitions\RemoveRepetitions\obj\Debug\netcoreapp3.1\RemoveRepetitions.pdb
 D:\GitHub\Projetos_Desafios\RemoveRepetitions\RemoveRepetitions\RemoveRepetitions\obj\Debug\netcoreapp3.1\RemoveRepetitions.genruntimeconfig.cache
+D:\GitHub\RemoveRepetitions\RemoveRepetitions\RemoveRepetitions\bin\Debug\netcoreapp3.1\RemoveRepetitions.exe
+D:\GitHub\RemoveRepetitions\RemoveRepetitions\RemoveRepetitions\bin\Debug\netcoreapp3.1\RemoveRepetitions.deps.json
+D:\GitHub\RemoveRepetitions\RemoveRepetitions\RemoveRepetitions\bin\Debug\netcoreapp3.1\RemoveRepetitions.runtimeconfig.json
+D:\GitHub\RemoveRepetitions\RemoveRepetitions\RemoveRepetitions\bin\Debug\netcoreapp3.1\RemoveRepetitions.runtimeconfig.dev.json
+D:\GitHub\RemoveRepetitions\RemoveRepetitions\RemoveRepetitions\bin\Debug\netcoreapp3.1\RemoveRepetitions.dll
+D:\GitHub\RemoveRepetitions\RemoveRepetitions\RemoveRepetitions\bin\Debug\netcoreapp3.1\RemoveRepetitions.pdb
+D:\GitHub\RemoveRepetitions\RemoveRepetitions\RemoveRepetitions\obj\Debug\netcoreapp3.1\RemoveRepetitions.csprojAssemblyReference.cache
+D:\GitHub\RemoveRepetitions\RemoveRepetitions\RemoveRepetitions\obj\Debug\netcoreapp3.1\RemoveRepetitions.AssemblyInfoInputs.cache
+D:\GitHub\RemoveRepetitions\RemoveRepetitions\RemoveRepetitions\obj\Debug\netcoreapp3.1\RemoveRepetitions.AssemblyInfo.cs
+D:\GitHub\RemoveRepetitions\RemoveRepetitions\RemoveRepetitions\obj\Debug\netcoreapp3.1\RemoveRepetitions.csproj.CoreCompileInputs.cache
+D:\GitHub\RemoveRepetitions\RemoveRepetitions\RemoveRepetitions\obj\Debug\netcoreapp3.1\RemoveRepetitions.dll
+D:\GitHub\RemoveRepetitions\RemoveRepetitions\RemoveRepetitions\obj\Debug\netcoreapp3.1\RemoveRepetitions.pdb
+D:\GitHub\RemoveRepetitions\RemoveRepetitions\RemoveRepetitions\obj\Debug\netcoreapp3.1\RemoveRepetitions.genruntimeconfig.cache

@@ -37,9 +37,22 @@ public class RemoveRepetitions
         return str.ToString();
     }
 
+    public static string TransformX(string input)
+    {
+        StringBuilder transformed = new StringBuilder();
+        transformed.Append(input[0]);
+        for (int i = 1; i < input.Length; i++)
+        {
+            if (input[i - 1] != input[i])
+                transformed.Append(input[i]);
+        }
+        return transformed.ToString();
+    }
+
     public static void Main(string[] args)
     {
         Console.WriteLine(RemoveRepetitions.TransformProx("abbcbbb")); // dará um retorno de abcb
         Console.WriteLine(RemoveRepetitions.Transform("abbcbbb")); // dará um retorno de abc
+        Console.WriteLine(RemoveRepetitions.TransformX("abbcbbb")); // dará um retorno de abcb
     }
 }
